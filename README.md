@@ -146,7 +146,7 @@ It is not a legally certified survey plan and should not be used for land regist
 
 ## Author
 
-**[Your Name]**
+**Olaribigbe Olamiposi**
 
 Surveying & Geo-Informatics  
 AutoCAD | GIS | Geospatial Analysis
